@@ -1,0 +1,105 @@
+.skyblue {
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border-radius: 50%;
+    background-color: skyblue;
+    border: 0.1px solid lightgray;
+    cursor: pointer;
+}
+
+.sky:hover {
+    background-color: lightgrey;
+    width: 4rem;
+}
+
+.motion {
+    font-size: 0.7rem;
+    margin-left: 0.7rem;
+    cursor: pointer;
+}
+
+.purple {
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-left: 1rem;
+    border-radius: 50%;
+    background-color: purple;
+    border: 0.1px solid lightgray;
+    margin-top: 0.5rem;
+    cursor: pointer;
+}
+
+.pur:hover {
+    background-color: lightgrey;
+    width: 4rem;
+}
+
+.looks {
+    font-size: 0.7rem;
+    margin-left: 0.8rem;
+    cursor: pointer;
+}
+
+.orange {
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-left: 1rem;
+    border-radius: 50%;
+    background-color: orange;
+    border: 0.1px solid lightgray;
+    margin-top: 0.5rem;
+    cursor: pointer;
+}
+
+.ora:hover {
+    background-color: lightgrey;
+    width: 4rem;
+}
+
+.control {
+    font-size: 0.7rem;
+    margin-left: 0.7rem;
+    cursor: pointer;
+}
+
+.yellow {
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-left: 1rem;
+    border-radius: 50%;
+    background-color: yellow;
+    border: 0.1px solid lightgray;
+    margin-top: 0.5rem;
+    cursor: pointer;
+}
+
+.yel:hover {
+    background-color: lightgrey;
+    width: 4rem;
+}
+
+.events {
+    font-size: 0.7rem;
+    margin-left: 0.8rem;
+    cursor: pointer;
+}
+
+.vertical-line {
+    height: 100%;
+    width: 1px;
+    background-color: lightgray;
+    margin-left: 4rem;
+    margin-top: -34.7rem;
+}
+
+.icon {
+    margin-top: 20rem;
+    font-size: 2rem;
+    margin-left: 0.8rem;
+    background-color: cornflowerblue;
+    color: white;
+    width: 2.5rem;
+    cursor: pointer;
+}

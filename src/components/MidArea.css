@@ -1,0 +1,16 @@
+.circle {
+    height: 2.5rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+
+.cat {
+    margin-top: 2rem;
+    height: 50%;
+    width: 50%;
+    opacity: 0.2;
+}
+
